@@ -5,7 +5,28 @@ Matchmaker is an online dating agency that users can access via the web in order
 The site is interactive and built by using HTML, CSS, Bootstrap, JS, PHP, and MySQL.
 
 ***
-
-
  ![](Index.png) 
+
+***
+ ![](EditProfile.png) 
+ 
+ ***
+ ![](ViewProfile.png) 
+ 
+ ***
+ ![](Search.png) 
+ 
+ ***
+ ![](SearchResult.png) 
+ 
+ ***
+ ![](Recommendation.png) 
+ 
+ ***
+ ![](Notification.png) 
+
+
+
+
+
 
