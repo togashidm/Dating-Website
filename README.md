@@ -25,6 +25,9 @@ The site is interactive and built by using HTML, CSS, Bootstrap, JS, PHP, and My
  ***
  ![](notifications.png) 
 
+***
+ ![](ERD.png) 
+
 
 
 
