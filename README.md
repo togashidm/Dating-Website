@@ -23,7 +23,7 @@ The site is interactive and built by using HTML, CSS, Bootstrap, JS, PHP, and My
  ![](Recommendation.png) 
  
  ***
- ![](Notification.png) 
+ ![](notifications.png) 
 
 
 
